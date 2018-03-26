@@ -51,6 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\birdmotion.cs" />
+     <Compile Include="Assets\cameraFunction.cs" />
+     <Compile Include="Assets\DeadAction.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/kingt/OneDrive/桌面/flappybird/FlappyBird/New Unity Project/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>

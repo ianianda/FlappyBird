@@ -5,7 +5,7 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
 
-    public float volume;
+    public static float volume;
 
     AudioClip micRecord;
 
