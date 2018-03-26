@@ -1,5 +1,5 @@
 # FlappyBird
 
-Voice Controlled game.
+Voice Controlled 2D game.
 
 Using input from microphone.
