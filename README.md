@@ -1,4 +1,4 @@
-# FlappyBird
+# FlyingBird
 
 Voice Controlled 2D game.
 
